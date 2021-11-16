@@ -1,0 +1,5 @@
+Volkswagen Beetle 2010 29.5
+Honda Accord 2013 33.1
+Honda Civic 2012 38.4
+Ford Explorer 2001 13.0
+Ford Explorer 2008 18.2
